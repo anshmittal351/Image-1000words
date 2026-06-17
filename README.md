@@ -20,6 +20,7 @@ I recommend you use Google's tool squoosh.app to compress your own images in AVI
 
 I've also left a challenge:
 The first person to decode the text "challenge.txt" and comment the output on my Youtube video will get pinned and will recieve a shoutout in the next video!
+The encrypted image is in .png format.
 
 VIDEO LINK: [not published yet]
 
