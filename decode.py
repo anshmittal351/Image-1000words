@@ -66,7 +66,7 @@ def decode_image(path):
     converted_bytes = convert_bits_to_bytes(binary_text)
     print('step 3 complete!')
 
-    with open("output.zip", "wb") as output_file: # output file format can be changed here
+    with open("output.avif", "wb") as output_file: # output file format can be changed here
         output_file.write(converted_bytes)
     
     print("The image has been successfully restored!")
