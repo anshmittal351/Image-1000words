@@ -69,4 +69,4 @@ def encode_image(path):
 
     print("image converted successfully!")
 
-encode_image("ENCODE.zip") # input file format can be changed here
+encode_image("input_image.avif") # input file format can be changed here
