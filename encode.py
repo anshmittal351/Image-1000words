@@ -37,8 +37,6 @@ def convert_to_words(binary, words):
             list_13_digits.append(binary[i])
             count += 1
             if i == len(binary) - 1:
-                list_13_digits.append(binary[i])
-                count += 1
                 num = int("".join(list_13_digits), 2)
                 words_list.append(words[num])
 
